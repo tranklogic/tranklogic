@@ -1,0 +1,6 @@
+- 👋 Hi, I’m @tranklogic
+- 👀 I’m interested in geography, maps and javaScript.
+- 🗺 I try to make geodata available to the blind 
+- 💞️ I’m looking to collaborate on maps services.
+- 🙈 I’m blind, and i use a screenreader on my computer.
+- 📫 tranklogic@gmail.com		
